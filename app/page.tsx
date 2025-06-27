@@ -38,7 +38,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/cargas_e.jpg"
+                src="/Imagenes/cargas_e2.jpg"
                 alt="Representación de cargas eléctrica"
                 className="w-full h-50 object-cover rounded-lg border"
               />
@@ -46,7 +46,7 @@ const topics = [
           </div>
         </div>,
 
-        // Segunda sección
+        // Segunda sección uwuw
         <div key="2-section" className="flex flex-col md:flex-row items-start gap-6 mb-8">
           <div className="flex-1 text-justify">
             <span className={`font-semibold ${merriweather.className} text-xl block mb-4`}>Corriente Eléctrica</span>
@@ -61,7 +61,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/corriente_e.png"
+                src="/Imagenes/corriente_e5.png"
                 alt="Representación de corriente eléctrica"
                 className="w-full h-50 object-cover rounded-lg border"
               />
@@ -84,7 +84,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/voltaje.jpg"
+                src="/Imagenes/voltaje15.jpg"
                 alt="Representación de voltaje"
                 className="w-full h-50 object-cover rounded-lg border"
               />
@@ -108,7 +108,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/ley_de_ohm.jpg"
+                src="/Imagenes/ley_de_ohm8.jpg"
                 alt="Representación de las distintas formas de la LdO"
                 className="w-full h-50 object-cover rounded-lg border "
               />
@@ -132,7 +132,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/c_a.jpg"
+                src="/Imagenes/c_a1.jpg"
                 alt="Representación de conductores y aislantes"
                 className="w-full h-48 object-cover rounded-lg border border-gray-200"
               />
@@ -154,7 +154,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/materiales_resistivos.png"
+                src="/Imagenes/materiales_resistivos9.png"
                 alt="Representación de la resistividad"
                 className="w-full h-50 object-cover rounded-lg border border-gray-200"
               />
@@ -186,7 +186,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/resistividaddd.png"
+                src="/Imagenes/resistividaddd13.png"
                 alt="Tabla resistividad"
                 className="w-full h-48 object-cover rounded-lg border border-gray-200"
               />
@@ -214,7 +214,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/resistividad_electrica.png"
+                src="/Imagenes/resistividad_electrica11.png"
                 alt="Representación de la longitud y area de sección transversal"
                 className="w-full h-50 object-cover rounded-lg border border-gray-200"
               />
@@ -241,7 +241,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/t_r.png"
+                src="/Imagenes/t_r14.png"
                 alt="Representación de la resistividad electrica"
                 className="w-full h-48 object-cover rounded-lg border border-gray-200"
               />
@@ -300,7 +300,7 @@ const topics = [
           <div className="md:w-1/3 flex-shrink-0">
             <div className="text-center">
               <img
-                src="/Imagenes/partes-de-una-resistencia-electronica.jpg"
+                src="/Imagenes/partes-de-una-resistencia-electronica10.jpg"
                 alt="Partes de una resistencia"
                 className="w-full h-48 object-cover rounded-lg border border-gray-200"
               />
@@ -329,7 +329,7 @@ const topics = [
 
           <div className="flex-1 text-center">
             <img
-              src="/Imagenes/circuito-de-resistencias-en-serie.jpg"
+              src="/Imagenes/circuito-de-resistencias-en-serie3.jpg"
               alt="Circuito de resistencias en serie"
               className="w-full h-64 object-cover rounded-lg"
             />
@@ -339,7 +339,7 @@ const topics = [
           </div>
           <div className="flex-1 text-center">
             <img
-              src="/Imagenes/circuito-de-resistencias-en-paralelo.jpg"
+              src="/Imagenes/circuito-de-resistencias-en-paralelo4.jpg"
               alt="Circuito de resistencias en paralelo"
               className="w-full h-64 object-cover rounded-lg"
             />
@@ -369,7 +369,7 @@ const topics = [
 
           <div className="flex-1 text-center">
             <img
-              src="/Imagenes/divisor_corriente5.png"
+              src="/Imagenes/divisor_corriente6.png"
               alt="Divisor de corriente"
               className="w-full h-64 object-cover rounded-lg"
             />
@@ -379,7 +379,7 @@ const topics = [
           </div>
           <div className="flex-1 text-center">
             <img
-              src="/Imagenes/divisor_voltaje3.png"
+              src="/Imagenes/divisor_voltaje7.png"
               alt="Divisor de  voltaje"
               className="w-full h-64 object-cover rounded-lg"
             />
